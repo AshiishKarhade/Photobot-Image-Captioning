@@ -19,8 +19,10 @@ I made a web app with Flask Framework to upload any photo and get relevant capti
 
 ### Screenshots
 * SC1
-![Screenshot](https://github.com/AshiishKarhade/Image-Captioning/blob/master/PhotoBot/sc1.png)
+![Screenshot](https://github.com/AshiishKarhade/Photobot-Image-Captioning/blob/master/PhotoBot/sc1.png)
 * SC2
-![Screenshot](https://github.com/AshiishKarhade/Image-Captioning/blob/master/PhotoBot/sc2.png)
+![Screenshot](https://github.com/AshiishKarhade/Photobot-Image-Captioning/blob/master/PhotoBot/sc2.png)
+* Input
+![Screenshot](https://github.com/AshiishKarhade/Photobot-Image-Captioning/blob/master/PhotoBot/test.jpg)
 * SC3
-![Screenshot](https://github.com/AshiishKarhade/Image-Captioning/blob/master/PhotoBot/sc3.png)
+![Screenshot](https://github.com/AshiishKarhade/Photobot-Image-Captioning/blob/master/PhotoBot/sc3.png)
