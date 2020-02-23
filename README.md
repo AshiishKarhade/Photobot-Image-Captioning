@@ -17,5 +17,10 @@ I made a web app with Flask Framework to upload any photo and get relevant capti
 * RNN Layers
 * Trained on 30,000 Images by [Flickr30k dataset](https://www.kaggle.com/hsankesara/flickr-image-dataset)
 
-
-![Screenshot](https://github.com/AshiishKarhade/Stone-Paper-Scissors/blob/master/1.png)
+### Screenshots
+* SC1
+![Screenshot](https://github.com/AshiishKarhade/Image-Captioning/blob/master/PhotoBot/sc1.png)
+* SC2
+![Screenshot](https://github.com/AshiishKarhade/Image-Captioning/blob/master/PhotoBot/sc2.png)
+* SC3
+![Screenshot](https://github.com/AshiishKarhade/Image-Captioning/blob/master/PhotoBot/sc3.png)
