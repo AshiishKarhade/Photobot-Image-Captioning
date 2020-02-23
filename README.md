@@ -18,4 +18,6 @@ I made a web app with Flask Framework to upload any photo and get relevant capti
 * Trained on 30,000 Images by [Flickr30k dataset](https://www.kaggle.com/hsankesara/flickr-image-dataset)
 
 
-![Screenshot](https://github.com/AshiishKarhade/Stone-Paper-Scissors/blob/master/1.png)
+![Screenshot](https://github.com/AshiishKarhade/Image-Captioning/blob/master/PhotoBot/sc1.png)
+![Screenshot](https://github.com/AshiishKarhade/Image-Captioning/blob/master/PhotoBot/sc2.png)
+![Screenshot](https://github.com/AshiishKarhade/Image-Captioning/blob/master/PhotoBot/sc3.png)
